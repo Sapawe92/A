@@ -1,0 +1,7 @@
+# API Key Generator & Protected API
+# Step-by-step project: build your own API service
+
+fastapi
+uvicorn
+sqlite3
+uuid
